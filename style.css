@@ -1,0 +1,62 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body{
+    overflow-x:hidden;
+    max-width: 100%;
+    margin:0;
+    margin-bottom: 150px;
+
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Andika';
+    
+}
+
+
+#bg{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/602cad91-0c2c-4067-bacf-4caad6e0227e/db9iuf6-d15a38e3-1a66-4b99-bbfe-662d1f6b7d52.png/v1/fill/w_1024,h_640,q_80,strp/capital_geek_wallpaper_by_gasaiyoshi_db9iuf6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvNjAyY2FkOTEtMGMyYy00MDY3LWJhY2YtNGNhYWQ2ZTAyMjdlXC9kYjlpdWY2LWQxNWEzOGUzLTFhNjYtNGI5OS1iYmZlLTY2MmQxZjZiN2Q1Mi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tkMGm8ROhaUdfy4OQUXAZIsyjq2TfaQ9tOl0Q0SoyYo);
+    background-repeat: no-repeat;
+    min-height:600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    text-align: center;
+}
+#banner_content {
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.carousel-inner img {
+    width: 100%;
+    height:100%;
+}
+.footer{
+    position: absolute;
+    margin-top: 50px;
+    background-color: #141414;
+    min-height:150px;
+    padding-top:40px;
+    width: 100%;
+   
+    bottom: 0;
+    
+}
+.container  a {
+    color:black;
+}
+.container a:hover{
+    color:grey;
+    
+}
+#size{
+    max-height:200px;
+}
+
